@@ -1,4 +1,5 @@
-### Hi there 👋
+BS in Computer Science at Florida International University. <br />
+For inquiries: Alisa.e.chavez@gmail.com
 
 <!--
 **reallyprettycool/reallyprettycool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
